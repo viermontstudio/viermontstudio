@@ -2,8 +2,7 @@
 
 ### Designer, Visual Artist & Cybersecurity Learner
 
-I am a designer and visual artist with a background in graphic arts, illustration and creative technologies.
-
+I am a designer and visual artist with a Technical Degree in Graphic Arts from CEINPRO and a background in illustration and creative technologies.
 Over the years, I have explored different fields of technology, including programming and web development. Today, my focus is cybersecurity, where I continue building practical skills through technical projects, documentation and hands-on learning.
 
 ## 🎯 Current Focus
