@@ -34,7 +34,8 @@ I am a designer and visual artist with a Technical Degree in Graphic Arts from *
 ---
 
 ### 📚 Featured Repositories
-- [CyberSecurity101](https://github.com/viermontstudio/CyberSecurity101) — TryHackMe Cyber Security 101 Study Guide & Hands-on Labs
+- [DAM-JobieFP](https://github.com/viermontstudio/DAM-JobieFP) — Jobie FP Exercises & Study Guide *(🔒 Private — Public release coming soon)*
+- [CyberSecurity101](https://github.com/viermontstudio/CyberSecurity101) — TryHackMe Cyber Security 101 Study Guide & Hands-on Labs *(🔒 Private — Public release coming soon)*
 - [42_Cursus](https://github.com/viermontstudio/42_Cursus) — C Language Projects & Core Fundamentals (*42 Urduliz*)
 - [42_Pool](https://github.com/viermontstudio/42_Pool) — Intensive C Bootcamp (*42 Urduliz*)
 
