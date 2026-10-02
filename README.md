@@ -20,11 +20,12 @@ I am a designer and visual artist with a Technical Degree in Graphic Arts from *
 ---
 
 ### 🎓 Education & Learning Pathways
-- **DAM (Desarrollo de Aplicaciones Multiplataforma):** Jobie FP — *(Currently Enrolled / In Progress)*
-- **Programming & Bootcamps:** 42 Urduliz (*Pool* & *Cursus* in C), Open Bootcamp (Java), Microsoft Learn (*Foundational C#*)
-- **Graphic Arts & Design:** CEINPRO — *(Completed)*
+- **DAM (Desarrollo de Aplicaciones Multiplataforma):** Jobie FP | *(Currently Enrolled: 2026–2028)*
+- **Programming & Bootcamps:** 42 Urduliz (*Pool* & *Cursus* in C, 2021–2022) | BIRT LH (*Java Programming Module*, 2022–2023) | Open Bootcamp (Java, 2023) | Microsoft Learn (*Foundational C#, 2024*)
+- **Área · Escuela de Diseño:** Web Design & Multimedia Programming *(609h)* | *(2003)*
+- **CEINPRO:** Official VET Degree in Graphic Arts Prepress (*Técnico en Preimpresión*, 2000h) | *(Graduated 2000)*
 
----
+----
 
 ### 🎨 Creative Background
 - Graphic Design & Visual Communication
